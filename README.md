@@ -1,7 +1,7 @@
 Hi 👋 My name is Juan Martinez
 ==============================
 
-Android developer with more than 2 years of experience
+Android developer with more than 2 years of experience specialized in kotlin
 ------------------------------------------------------
 
 * 🌍  I'm based in Krakow
