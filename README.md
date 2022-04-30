@@ -35,10 +35,3 @@ Android developer with more than 2 years of experience specialized in kotlin
 
 <a href="https://github.com/EpifiOfficial" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EpifiOfficial&langs_count=10&title_color=0891b2&text_color=6366f1&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/EpifiOfficial/https://github.com/EpifiOfficial/Splitter" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=EpifiOfficial&repo=https://github.com/EpifiOfficial/Splitter&title_color=0891b2&text_color=6366f1&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/EpifiOfficial/https://github.com/EpifiOfficial/BvsO-Official" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=EpifiOfficial&repo=https://github.com/EpifiOfficial/BvsO-Official&title_color=0891b2&text_color=6366f1&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/EpifiOfficial/https://github.com/EpifiOfficial/Taskloginnfq" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=EpifiOfficial&repo=https://github.com/EpifiOfficial/Taskloginnfq&title_color=0891b2&text_color=6366f1&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/EpifiOfficial/https://github.com/EpifiOfficial/EaterOfficial" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=EpifiOfficial&repo=https://github.com/EpifiOfficial/EaterOfficial&title_color=0891b2&text_color=6366f1&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
