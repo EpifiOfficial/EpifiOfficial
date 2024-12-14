@@ -1,12 +1,12 @@
 Hi 👋 My name is Juan Martinez
 ==============================
 
-Android developer with more than 3 years of experience specialized in kotlin
+Mobile developer with more than 3 years of experience specialized in kotlin
 ------------------------------------------------------
 
 * 🌍  I'm based in Krakow
 * ✉️  You can contact me at [martinezjgerardo@protonmail.com](mailto:martinezjgerardo@protonmail.com)
-* 🧠  I'm learning Cybersecurity forensics
+* 🧠  I'm learning Cybersecurity 
 
 ### Skills
 
